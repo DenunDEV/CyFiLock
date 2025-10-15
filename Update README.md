@@ -6,11 +6,11 @@
 
 📋 Introdução 📋
 
- CyFi Lock é um sistema de autenticação corporativo desenvolvido 
-em C# que implementa múltiplas camadas de segurança através de 
-CAPTCHAs personalizados e efeitos visuais imersivos.
-O projeto demonstra práticas modernas de desenvolvimento e 
-segurança da informação em um contexto empresarial.
+ CyFi Lock é um sistema de autenticação "corporativo" desenvolvido em C# 
+que implementa múltiplas camadas de segurança através de CAPTCHAs 
+personalizados e efeitos visuais imersivos. meu projeto demonstra práticas 
+de desenvolvimento e segurança da informação em umcontexto empresarial para 
+fins de aprendizagem.
 
 "Tive o pensamento de criar o CyFi, como um sistema de autenticação de
 segurança de acesso, que combina verificações de identidade múltiplas 
