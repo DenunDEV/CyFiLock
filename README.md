@@ -1,5 +1,4 @@
 ﻿🔐 CyFi Lock
-
 ======================================================================
 
 - Sistema de Segurança Corporativo - 
@@ -65,7 +64,6 @@ de criar soluções robustas em C# como treinamento."
 🔒 Protocolos de segurança temáticos
 
 ========================================================
-
 Para testes:
 
 //Acesso Mestre
@@ -80,7 +78,7 @@ Senha:"AAF@789"
 
 ==============================
 
-//Acessos Padrões
+//Acesso Padrão #1
 
 Login:"Carlos.Ara"
 
@@ -92,6 +90,8 @@ Senha:"Senha@456"
 
 ============================
 
+//Acesso Padrão #2
+
 Login:"Marina.Fer"
 
 Nome Completo:"Marina Ferreira De Oliveira"
@@ -101,6 +101,8 @@ ID:"MO003"
 Senha:"Senha@789"
 
 ============================
+
+//Acesso Padrão #3
 
 Login:"Joao.prr"
 
