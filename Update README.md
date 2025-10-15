@@ -112,4 +112,8 @@ ID:"JC004"
 
 Senha:"Senha@101"
 
+=================================================
+Update 15 de Outubro de 2025
+
+- Adição de novos CAPTCHAs com ML.NET.
 
