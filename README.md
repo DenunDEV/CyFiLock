@@ -73,7 +73,7 @@ de criar soluções robustas em C# como treinamento."
 
 Para testes:
 
-//Acesso Mestre
+- Acesso Mestre
 
 Login:"Ast.Fonseca" 
 
@@ -85,7 +85,7 @@ Senha:"AAF@789"
 
 ==============================
 
-//Acesso Padrão #1
+- Acesso Padrão #1
 
 Login:"Carlos.Ara"
 
@@ -97,7 +97,7 @@ Senha:"Senha@456"
 
 ============================
 
-//Acesso Padrão #2
+- Acesso Padrão #2
 
 Login:"Marina.Fer"
 
@@ -109,7 +109,7 @@ Senha:"Senha@789"
 
 ============================
 
-//Acesso Padrão #3
+- Acesso Padrão #3
 
 Login:"Joao.prr"
 
