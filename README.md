@@ -70,26 +70,41 @@ Para testes:
 
 //Acesso Mestre
 
-Login:"Ast.Fonseca", 
-Nome completo:"Astolpho Assunção da Fonseca", 
-ID:"AS001", 
-Senha:"AAF@789".
+Login:"Ast.Fonseca" 
+
+Nome completo:"Astolpho Assunção da Fonseca"
+
+ID:"AS001"
+
+Senha:"AAF@789"
 
 
 //Acessos Padrões
 
-Login:"Carlos.Ara", 
-Nome Completo:"Carlos Araujo Dos Santos", 
-ID:"CS002", 
-Senha:"Senha@456".
+Login:"Carlos.Ara"
 
-Login:"Marina.Fer", 
-Nome Completo:"Marina Ferreira De Oliveira", 
-ID:"MO003", 
-Senha:"Senha@789".
+Nome Completo:"Carlos Araujo Dos Santos"
 
-Login:"Joao.prr", 
-Nome Completo:"João Carlos Pereira", 
-ID:"JC004", 
-Senha:"Senha@101".
+ID:"CS002"
+
+Senha:"Senha@456"
+============================
+
+Login:"Marina.Fer"
+
+Nome Completo:"Marina Ferreira De Oliveira"
+
+ID:"MO003"
+
+Senha:"Senha@789"
+
+============================
+Login:"Joao.prr"
+
+Nome Completo:"João Carlos Pereira"
+
+ID:"JC004"
+
+Senha:"Senha@101"
+
 
