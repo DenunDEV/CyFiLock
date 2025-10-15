@@ -1,6 +1,7 @@
 ﻿🔐 CyFi Lock
 ======================================================================
 
+
 - Sistema de Segurança Corporativo - 
 
 📋 Introdução 📋
@@ -18,18 +19,21 @@ auditoria completa de feedback de acesso e uma experiência de usuário
 imersiva com efeitos visuais temáticos, demonstrando minha capacidade
 de criar soluções robustas em C# como treinamento."
 
+
 =======================================================================
+
 
 § Funcionalidades
 
+
 1. Autenticação de Múltiplos Fatores
 
+§ Nome completo + ID de funcionário + Senha
 
-✅ Nome completo + ID de funcionário + Senha
+§ Sistema de bloqueio após 3 tentativas falhas
 
-✅ Sistema de bloqueio após 3 tentativas falhas
+§ Hierarquia de usuários (Comum vs Chave Mestra)
 
-✅ Hierarquia de usuários (Comum vs Chave Mestra)
 
 
 2. Sistema CAPTCHA Dinâmico
@@ -42,6 +46,7 @@ de criar soluções robustas em C# como treinamento."
 § SequenceCaptcha: Sequências lógicas numéricas
 
 § ImageCaptcha: Identificação de padrões ASCII
+
 
 
 3. Auditoria e Compliance
@@ -61,7 +66,8 @@ de criar soluções robustas em C# como treinamento."
 
 § Feedback em tempo real
 
-🔒 Protocolos de segurança temáticos
+§ Protocolos de segurança temáticos
+
 
 ========================================================
 Para testes:
@@ -111,6 +117,7 @@ Nome Completo:"João Carlos Pereira"
 ID:"JC004"
 
 Senha:"Senha@101"
+
 
 =================================================
 Update 15 de Outubro de 2025
